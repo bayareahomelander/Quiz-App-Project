@@ -9,4 +9,4 @@ The design process also follows the principle of API design, whereas in this pro
 
 Other basic knowledge applied here include: Struct, Libraries, Stored/Computed Properties, etc.
 
-The application is not intended for commercial-use but rather practice and enriching portfolio. 
+The application is not intended for commercial-use but rather personal practice and enriching portfolio. 
