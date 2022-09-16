@@ -1,4 +1,4 @@
-# quizAppProject
+# Quiz App Project
 This GitHub file contains components of an interactive, fully functional iOS application - a short 10-question quiz regarding the history of computer science and iOS/Apple.
 
 The Object-Oriented Programming project uses Swift and SwiftUI as the foundation and comes with multiple layers - a welcome screen, questions and a screen that displays the final result. 
